@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "FV Patient Portal — Functional Vital Sign",
+  "short_name": "FV Portal",
+  "description": "A camera-guided chair-rise check and patient-owned Visit Card. Research prototype.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#387a89",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
