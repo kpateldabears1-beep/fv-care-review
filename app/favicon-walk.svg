@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">FV Functional Vital Sign</title>
+  <desc id="desc">A walking person within a camera measurement frame above the FV initials.</desc>
+  <rect width="512" height="512" rx="104" fill="#1c4c59"/>
+  <g transform="translate(91 35) scale(5.15)">
+    <g fill="none" stroke="#76b4b5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 21v-7h7M45 14h7v7M12 43v7h7M45 50h7v-7"/>
+    </g>
+    <circle cx="29" cy="20" r="5" fill="#fff"/>
+    <g fill="none" stroke="#fff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m28 28 3 11m-3-8-10 6m11-8 10 5M31 39 21 49m10-10 12 9"/>
+    </g>
+  </g>
+  <text x="256" y="458" fill="#fff" font-family="Georgia, serif" font-size="136" font-weight="700" text-anchor="middle" letter-spacing="-8">FV</text>
+</svg>
