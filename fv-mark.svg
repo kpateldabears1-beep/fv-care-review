@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" role="img" aria-labelledby="title desc">
+  <title id="title">FV Functional Vital Sign</title>
+  <desc id="desc">A person rests during treatment, then climbs a rising path.</desc>
+  <path d="M5 47h48M8 46V31m0 10h43v6M12 36h13" fill="none" stroke="#1c4c59" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="28" r="5" fill="#1c4c59"/>
+  <path d="M27 32c7 0 11 4 16 6h9" fill="none" stroke="#1c4c59" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M58 47 76 37l8 4 21-26 11 12" fill="none" stroke="#76b4b5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="99" cy="14" r="4.5" fill="#1c4c59"/>
+  <path d="m97 20-6 12m5-11 7 7m-9-2-8 7m8-2 5 9m-5-9-8 4" fill="none" stroke="#1c4c59" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M61 45h3m6-5h3" fill="none" stroke="#367bc1" stroke-width="3" stroke-linecap="round"/>
+</svg>

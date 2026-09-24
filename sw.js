@@ -1,6 +1,6 @@
-const CACHE='fv-presentation-v5'
+const CACHE='fv-presentation-v6'
 const ROOT=new URL('./',self.location.href)
-const CORE=['./','fv-app-qr.png','fv-camera-fallback.mp4'].map(path=>new URL(path,ROOT).href)
+const CORE=['./','favicon.svg','fv-mark.svg','louisiana-census-2024.svg','fv-app-qr.png','fv-camera-fallback.mp4'].map(path=>new URL(path,ROOT).href)
 
 self.addEventListener('install',event=>event.waitUntil(
   caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting()),

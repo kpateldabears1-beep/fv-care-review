@@ -1,6 +1,13 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M22 19.2727C22 20.779 20.779 22 19.2727 22H14.7273C13.221 22 12 20.779 12 19.2727V12H19.2727C20.779 12 22 13.221 22 14.7273V19.2727Z" fill="#68C4FF"/>
-<path d="M20 2C21.1046 2 22 2.89543 22 4V7C22 8.10457 21.1046 9 20 9H17C15.8954 9 15 8.10457 15 7V4C15 2.89543 15.8954 2 17 2H20Z" fill="#0C79D8"/>
-<path d="M7 15C8.10457 15 9 15.8954 9 17V20C9 21.1046 8.10457 22 7 22H4C2.89543 22 2 21.1046 2 20V17C2 15.8954 2.89543 15 4 15H7Z" fill="#0C79D8"/>
-<path d="M12 12H4.72727C3.22104 12 2 10.779 2 9.27273V4.72727C2 3.22104 3.22104 2 4.72727 2H9.27273C10.779 2 12 3.22104 12 4.72727V12Z" fill="#2E9EFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">FV Functional Vital Sign</title>
+  <rect width="512" height="512" rx="104" fill="#1c4c59"/>
+  <g transform="translate(62 66) scale(3.23)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 47h48M8 46V31m0 10h43v6M12 36h13" stroke="#fff" stroke-width="4"/>
+    <circle cx="24" cy="28" r="5" fill="#fff"/>
+    <path d="M27 32c7 0 11 4 16 6h9" stroke="#fff" stroke-width="7"/>
+    <path d="M58 47 76 37l8 4 21-26 11 12" stroke="#76b4b5" stroke-width="4"/>
+    <circle cx="99" cy="14" r="4.5" fill="#fff"/>
+    <path d="m97 20-6 12m5-11 7 7m-9-2-8 7m8-2 5 9m-5-9-8 4" stroke="#fff" stroke-width="4.2"/>
+  </g>
+  <text x="256" y="410" fill="#fff" font-family="Georgia, serif" font-size="168" font-weight="700" text-anchor="middle" letter-spacing="-12">FV</text>
 </svg>
